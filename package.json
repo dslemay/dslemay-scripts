@@ -1,0 +1,30 @@
+{
+  "name": "dslemay-scripts",
+  "version": "0.1.0",
+  "description": "A toolkit abstraction to help projects get up and running faster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tooling",
+    "linting"
+  ],
+  "author": "Daniel Lemay",
+  "license": "ISC",
+  "dependencies": {
+    "arrify": "^1.0.1",
+    "babel-eslint": "^8.2.6",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-flowtype": "^2.50.0",
+    "eslint-plugin-flowtype-errors": "^3.6.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1",
+    "lodash.has": "^4.5.2",
+    "prettier": "^1.14.2",
+    "read-pkg-up": "^4.0.0"
+  }
+}
